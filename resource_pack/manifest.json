@@ -1,0 +1,25 @@
+{
+  "format_version": 2,
+  "metadata": {
+    "authors": ["LI63050A"],
+    "license": "Apache-2.0",
+    "url": "https://github.com/LiStudioorg/mcprojecte"
+  },
+  "header": {
+    "name": "ProjectE-Transmutation RP",
+    "description": "等价交换：转化桌材质与模型包 (Resource Pack)",
+    "uuid": "ba1d3fdb-ebea-474b-945e-00d43e56b8a4",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "3f2b619c-2c94-47e2-8bbd-8b32e7a9b6ba",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    { "uuid": "4ece41f3-a933-47c6-b217-b03e2e45d5d8", "version": [1, 0, 0] }
+  ]
+}

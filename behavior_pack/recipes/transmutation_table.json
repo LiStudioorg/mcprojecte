@@ -1,0 +1,13 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "tt:recipe_transmutation_table" },
+    "tags": [ "crafting_table" ],
+    "pattern": [ " S ", "SOS", " S " ],
+    "key": {
+      "S": { "item": "minecraft:cobblestone" },
+      "O": { "item": "tt:sage_stone" }
+    },
+    "result": { "item": "tt:transmutation_table", "count": 1 }
+  }
+}

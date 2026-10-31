@@ -1,0 +1,9 @@
+{
+  "resource_pack_name": "tt_rp",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "tt_portable_table": {
+      "textures": "textures/items/portable_table"
+    }
+  }
+}

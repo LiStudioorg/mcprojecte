@@ -1,0 +1,13 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "tt:recipe_sage_stone" },
+    "tags": [ "crafting_table" ],
+    "pattern": [ " C ", "CIC", " C " ],
+    "key": {
+      "C": { "item": "minecraft:coal" },
+      "I": { "item": "minecraft:iron_ingot" }
+    },
+    "result": { "item": "tt:sage_stone", "count": 1 }
+  }
+}

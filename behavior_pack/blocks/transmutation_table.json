@@ -1,0 +1,19 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:block": {
+    "description": {
+      "identifier": "tt:transmutation_table",
+      "menu_category": { "category": "equipment" }
+    },
+    "components": {
+      "minecraft:geometry": "geometry.transmutation_table",
+      "minecraft:material_instances": {
+        "*": { "texture": "tt_transmutation_table", "render_method": "opaque" }
+      },
+      "minecraft:collision_box": { "origin": [-8, 0, -8], "size": [16, 12, 16] },
+      "minecraft:selection_box": { "origin": [-8, 0, -8], "size": [16, 12, 16] },
+      "minecraft:destructible_by_mining": { "seconds_to_destroy": 3 },
+      "minecraft:destructible_by_explosion": { "explosion_resistance": 10 }
+    }
+  }
+}
